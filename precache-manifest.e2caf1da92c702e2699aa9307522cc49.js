@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abf1808349686091d7635a46a3045353",
+    "revision": "76efba509e94771ca0aa532544acc9ec",
     "url": "/gpages-react-test/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gpages-react-test/static/css/4.22a9e70b.chunk.css"
   },
   {
-    "revision": "39b8e39015412d8f6b5c",
+    "revision": "d24ae764ff94842ecaee",
     "url": "/gpages-react-test/static/css/main.8cc07020.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gpages-react-test/static/js/4.f820a019.chunk.js"
   },
   {
-    "revision": "39b8e39015412d8f6b5c",
-    "url": "/gpages-react-test/static/js/main.216985ad.chunk.js"
+    "revision": "d24ae764ff94842ecaee",
+    "url": "/gpages-react-test/static/js/main.05088a73.chunk.js"
   },
   {
     "revision": "fbdd73eb9ddc58e1aec6",
