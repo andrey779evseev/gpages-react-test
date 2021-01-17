@@ -1,0 +1,66 @@
+.block {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.avaAllign {
+    margin-left: 10px;
+}
+
+h2 {
+    margin-left: 15px;
+}
+
+.flex_wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.ava {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.description {
+    width: 400px;
+    height: 60px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.location {
+    text-align: right;
+}
+
+.btn {
+    text-align: center;
+    background-color: royalblue;
+    border: none;
+    width: 60px;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.find {
+    width: 500px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #767676;
+    background-color: ghostwhite;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+
+.findDiv {
+    width: 700px;
+    margin: 10px auto 0;
+}
+

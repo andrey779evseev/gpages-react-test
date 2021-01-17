@@ -1,0 +1,44 @@
+
+
+.nav {
+    grid-area: n;
+    background-color: cornflowerblue;
+    font-size: 25px;
+    height: 96.5%;
+    padding: 20px 40px ;
+}
+.item a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+.item a.active{
+    color: white;
+}
+
+.friendName{
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.friendAva{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+
+.friendsInfo{
+    float: left;
+    text-align: center;
+    margin-left: 4px;
+}
+
+.wordFriends{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.friendsBlock{
+    margin-top: 150px;
+}

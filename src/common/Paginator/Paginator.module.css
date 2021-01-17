@@ -1,0 +1,32 @@
+.numPage {
+    text-decoration: none;
+    color: royalblue;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+.nonselectedpage {
+    cursor: pointer;
+}
+
+.selectedPage {
+    color: royalblue;
+    font-weight: bold;
+}
+
+.borderdiv {
+    border: 1px solid grey;
+    width: 45px;
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+}
+
+.selectedborderdiv {
+    border: 2px solid royalblue;
+    width: 45px;
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+}

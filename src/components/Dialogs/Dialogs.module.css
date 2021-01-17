@@ -1,0 +1,122 @@
+ {
+
+}
+
+
+.dialogs {
+    display: grid;
+    grid-template-areas: "di vl i";
+    grid-template-columns:  20% 1% 79%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.dialogsItems {
+    grid-area: di;
+    padding-left: 10px;
+}
+
+
+.dialog {
+    grid-area: i;
+    padding-top: 10px;
+
+}
+
+.dialog a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+
+.dialog a.active {
+    color: white;
+}
+
+.messages {
+    padding-left: 10px;
+    padding-top: 10px;
+    color: steelblue;
+
+}
+
+.message {
+    display: inline-block;
+    width: 90%;
+}
+
+.vl {
+    border-left: 2px solid cornflowerblue;
+    height: 100%;
+    grid-area: vl;
+
+
+}
+
+.item {
+    border-radius: 50px;
+    width: 50px;
+}
+
+.mava{
+    display: inline;
+}
+
+
+.footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 64%;
+}
+
+.clearfix{
+    text-align: center;
+    width: 100%;
+    display: flex;
+}
+
+
+
+.textar {
+    resize: none;
+    width: 500px;
+    height: 30px;
+    border-radius: 30px;
+    border: 1px solid royalblue;
+    vertical-align: middle;
+    margin-top: 5px;
+    padding-left: 10px;
+    margin-left: 65px;
+}
+
+
+
+.forward {
+    width: 50px;
+    height: 36px;
+    border-radius: 30px;
+    border: 1px solid royalblue;
+    background-color: white;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+
+
+.clip {
+    width: 50px;
+    height: 37px;
+    border: 1px solid royalblue;
+    border-radius: 30px;
+    background-color: white;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+

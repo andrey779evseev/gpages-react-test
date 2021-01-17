@@ -1,0 +1,25 @@
+
+/*.app-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.app-wrapper-content{
+    background-color: #a2b5de;
+    width: 100%;
+ }
+
+.wrapper_lite {
+    display: flex;
+}
+
+button:focus{
+    outline: none;
+}
+
+textarea:focus {
+    outline: none;
+}*/
+
+
+

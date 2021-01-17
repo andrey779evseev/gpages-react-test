@@ -1,0 +1,7 @@
+.err {
+    border: 1px solid red;
+}
+
+textarea {
+    resize: none;
+}

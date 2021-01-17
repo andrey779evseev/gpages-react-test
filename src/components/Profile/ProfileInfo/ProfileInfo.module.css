@@ -1,0 +1,64 @@
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+}
+
+a {
+    text-decoration: none;
+    color: royalblue;
+}
+
+.ava {
+    width: 300px;
+    height: 300px;
+    border-radius: 80px;
+}
+
+.description {
+    margin-top: 8px;
+    margin-left: 50px;
+}
+
+.description h2 {
+    text-transform: capitalize;
+    padding: 0;
+    margin: 0;
+}
+
+.job {
+    display: flex;
+    align-items: center;
+    border: 1px solid royalblue;
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+.jobphoto {
+    width: 100px;
+    margin-right: 20px;
+    display: block;
+}
+.status {
+    text-align: center;
+}
+
+.contacts a {
+
+}
+
+.status_inp {
+    width: 300px;
+    outline: none;
+    height: 25px;
+    border-radius: 10px;
+    border: 2px solid darkblue;
+}
+
+.uploadPhoto {
+    width: 300px;
+    outline: none;
+    background-color: #a2b5de;
+    border: 0;
+    margin: 0;
+}

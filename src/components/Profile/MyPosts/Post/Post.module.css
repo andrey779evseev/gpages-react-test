@@ -1,0 +1,19 @@
+.item {
+    color: red;
+    padding: 10px;
+}
+.item img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+.like{
+    font-family: 'Open Sans';
+}
+
+.likeActive{
+    background: #7CC576;
+    color: white;
+}
+
